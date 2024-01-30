@@ -44,9 +44,6 @@ Contributions to this project are welcome. Please adhere to the following steps 
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Create a new Pull Request against the main branch.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
-
 ## Contact
 For further inquiries, support, or to contribute to the project, please feel free to reach out:
 - **LinkedIn**: [@denizumutdereli](https://www.linkedin.com/in/denizumutdereli)
