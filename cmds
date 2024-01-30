@@ -1,0 +1,4 @@
+npm init -y
+npx hardhat init
+npm i @aave/core-v3 dotenv
+npx hardhat run --network sepolia scripts/deployFlashloan.js
